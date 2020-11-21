@@ -1,7 +1,10 @@
 # Universal Bruteforcer
 A simple python 2 password bruteforce tool, compatible with nearly any login. Powered by Selenium.
 
-# Installation
+# DISCLAIMER [PLEASE READ THIS]
+This tool was created as a demonstration of my python skills, and MUST not be used for any malicious purposes. I claim no resposibility for anyt damage caused with this tool.
+
+# Install
 The dependencies for this tool are listed below:
   `Python 2`
   `Selenium`
@@ -13,7 +16,6 @@ The dependencies for this tool are listed below:
 ## Chromedriver Download
   You may download the version of chromedriver that corresponds to your version of chrome <a href="https://chromedriver.chromium.org/">here</a> 
   
-
 # Setup
 `driver = webdriver.Chrome("Path to the chromedriver excecutable")
 url = "Enter the URL of the login here"
