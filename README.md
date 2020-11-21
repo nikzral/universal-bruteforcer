@@ -6,10 +6,11 @@ The dependencies for this tool are listed below:
   `Python 2`
   `Selenium`
   `Chromedriver`
-  `itertools`
   
-## Selenium Webdriver
+## Selenium Webdriver Download
   `pip install selenium`
   
- ## Chromedriver
+ ## Chromedriver Download
   You may download the version of chromedriver that corresponds to your version of chrome <a href="https://chromedriver.chromium.org/">here</a> 
+
+
