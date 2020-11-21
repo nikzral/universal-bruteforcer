@@ -20,4 +20,7 @@ url = "Enter the URL of the login here"
 username = "Enter the username to be tried here"
 wordlist = [Enter all logins to be tried here, in python list format]
 usernamexpath = "Enter the html xpath of the username text box"
-passwordxpath = "Enter the html xpath of the password text box"
+passwordxpath = "Enter the html xpath of the password text box"`
+
+# Usage
+`python /path/to/bruteforce.py`
