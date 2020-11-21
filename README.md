@@ -12,4 +12,4 @@ The dependencies for this tool are listed below:
   `pip install selenium`
   
  ## Chromedriver
-  You may download the version of chromedriver that corresponds to your version of chrome here <dl> <a href="https://chromedriver.chromium.org/">here</a> </dl>
+  You may download the version of chromedriver that corresponds to your version of chrome <a href="https://chromedriver.chromium.org/">here</a> 
